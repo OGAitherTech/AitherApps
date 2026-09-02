@@ -2,44 +2,29 @@
 
 Aither Apps is an iPhone-inspired home screen for the Aither app collection.
 
-## v2.0
-- iPhone-style status bar with live time, signal, Wi-Fi, and battery
-- Responsive 4-column iPhone layout and 6-column desktop layout
-- Aither blue neon shield-style app icons
-- Multiple Home Screen pages with swipe navigation
+## v3.0
+- Redesigned to feel much closer to an iPhone Home Screen
+- Four-column mobile layout and six-column desktop layout
+- Dark blue/black Aither wallpaper with neon glow
+- iPhone-style status bar and home indicator
+- Search Apps with instant filtering
+- Swipe between Home Screen pages
 - Home Screen page dots
 - Glass-style four-app dock
-- Search Apps bar with live filtering
-- Edit mode with subtle icon movement
-- Working links to available Aither apps
+- Edit mode with iOS-style icon jiggle animation
+- Touch-friendly app launch animations
+- Working links to Aither AI, Aither Web, Aither Calculator, Aither Maps, Aither Clock, WhatTheWether, and Aither Notes
 - Coming-soon sheet for apps that are not connected yet
 - Mobile safe-area support
-- Touch-friendly controls and tap animations
-- Dynamic browser title and clock
 - GitHub Pages compatible
+
+## App icons
+
+The Home Screen uses the blue Aither shield/neon icon design from the supplied icon sheet as the visual reference for the app tiles.
 
 ## Apps
 
-- Aither AI
-- Aither Web
-- Aither Calculator
-- Aither Maps
-- Aither Clock
-- WhatTheWether
-- Aither Notes
-- Email
-- Texting
-- Settings
-- Passwords
-- Photos
-- Camera
-- App Store
-- Tips
-- Help
-- Document Viewing
-- Contacts
-- Calling
-- Shortcuts
+Email · Texting · Settings · Passwords · Photos · Camera · Aither AI · App Store · Tips · Help · Document Viewing · Contacts · Calling · Shortcuts · Browser · Calculator · Maps · Clock · Weather · Notes / Document
 
 ## GitHub Pages
 
